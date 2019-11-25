@@ -1,0 +1,15 @@
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\bin\Debug\LuisaKatrinaReyes.VideoPlayer.Windows.exe.config
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\bin\Debug\LuisaKatrinaReyes.VideoPlayer.Windows.exe
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\bin\Debug\LuisaKatrinaReyes.VideoPlayer.Windows.pdb
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\obj\Debug\LuisaKatrinaReyes.VideoPlayer.Windows.csprojAssemblyReference.cache
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\obj\Debug\App.g.cs
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\obj\Debug\LuisaKatrinaReyes.VideoPlayer.Windows_MarkupCompile.cache
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\obj\Debug\LuisaKatrinaReyes.VideoPlayer.Windows_MarkupCompile.lref
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\obj\Debug\MainWindow.baml
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\obj\Debug\LuisaKatrinaReyes.VideoPlayer.Windows.g.resources
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\obj\Debug\LuisaKatrinaReyes.VideoPlayer.Windows.Properties.Resources.resources
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\obj\Debug\LuisaKatrinaReyes.VideoPlayer.Windows.csproj.GenerateResource.cache
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\obj\Debug\LuisaKatrinaReyes.VideoPlayer.Windows.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\obj\Debug\LuisaKatrinaReyes.VideoPlayer.Windows.exe
+C:\Users\COMLABPC8\source\repos\LuisaKatrinaReyes.VideoPlayer\LuisaKatrinaReyes.VideoPlayer.Windows\obj\Debug\LuisaKatrinaReyes.VideoPlayer.Windows.pdb

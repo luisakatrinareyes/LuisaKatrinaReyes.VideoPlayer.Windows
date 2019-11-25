@@ -1,0 +1,17 @@
+﻿<Window x:Class="LuisaKatrinaReyes.VideoPlayer.Windows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LuisaKatrinaReyes.VideoPlayer.Windows"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" AllowDrop="True">
+    <Grid Drop="Window_Drop">
+        <MediaElement HorizontalAlignment="Right" Width="721" Margin="0,10,33,127" Name="MediaElement1" MediaOpened="MediaElement1_MediaOpened" RenderTransformOrigin="0.5,0.502" AllowDrop="True"/>
+        <Button Content="Play" HorizontalAlignment="Left" Margin="40,298,0,0" VerticalAlignment="Top" Width="101" Height="44" Click="Button_Click" FontSize="22" FontWeight="Bold"/>
+        <Button Content="Pause" HorizontalAlignment="Left" Margin="146,298,0,0" VerticalAlignment="Top" Width="101" Height="44" FontSize="22" FontWeight="Bold" Click="Button_Click_1"/>
+        <Button Content="Stop" HorizontalAlignment="Left" Margin="252,298,0,0" VerticalAlignment="Top" Width="101" RenderTransformOrigin="2.803,0.731" Height="44" FontSize="22" FontWeight="Bold" Click="Button_Click_2"/>
+        <Slider Name="Slider_seek" HorizontalAlignment="Left" Margin="40,357,0,0" VerticalAlignment="Top" Width="719" Height="45" ValueChanged="Slider_seek_ValueChanged"/>
+        <Slider Name="Slider_vol" HorizontalAlignment="Left" Margin="548,298,0,0" VerticalAlignment="Top" Width="211" Height="44" Maximum="1" LargeChange="0.1" SmallChange="0.01" Value="1" ValueChanged="Slider_vol_ValueChanged"/>
+    </Grid>
+</Window>
